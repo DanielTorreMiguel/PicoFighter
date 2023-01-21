@@ -9,3 +9,8 @@ This is an Open Source Arcade controller board for PC. Using the provided files 
 
 - Gerber: This are the files needed to fabricate the PCB
 - code: This are the files that need to be uploaded to the RPI Pico
+
+## Installing
+- Install [CircuitPython](https://circuitpython.org/board/raspberry_pi_pico) on the RPI Pico
+- Drag the code to the CircuitPython drive that appears when the board is plugged
+- Enjoy!
