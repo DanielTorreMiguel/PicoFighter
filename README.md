@@ -8,4 +8,4 @@
 This is an Open Source Arcade controller board for PC. Using the provided files you can make your own from scratch.
 
 - Gerber: This are the files needed to fabricate the PCB
-- SW: This are the files needed to generate the software.
+- code: This are the files that need to be uploaded to the RPI Pico
